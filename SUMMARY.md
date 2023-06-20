@@ -14,10 +14,13 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Project](fundamentals/project.md)
+* [User](fundamentals/user.md)
+* [Item](fundamentals/item.md)
+* [Task](fundamentals/task.md)
+* [Review](fundamentals/review.md)
+* [Status](fundamentals/status.md)
+* [EndPoint](fundamentals/endpoint.md)
 
 ## Use Cases
 
