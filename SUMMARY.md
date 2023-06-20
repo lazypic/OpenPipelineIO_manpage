@@ -8,6 +8,7 @@
 * [Creating first Status](guides/creating-first-status.md)
 * [Setup Service for RedHat](guides/setup-service-for-redhat.md)
 * [Setup FFmpeg](guides/setup-ffmpeg.md)
+* [Creating Review](guides/creating-review.md)
 * [Update script for OpenPipelineIO](guides/update-script-for-openpipelineio.md)
 
 ## Fundamentals
