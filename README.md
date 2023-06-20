@@ -24,12 +24,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-first-account.md](guides/creating-first-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/update-script-for-openpipelineio.md" %}
-[update-script-for-openpipelineio.md](guides/update-script-for-openpipelineio.md)
+{% content-ref url="guides/for-administrator/update-script-for-openpipelineio.md" %}
+[update-script-for-openpipelineio.md](guides/for-administrator/update-script-for-openpipelineio.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/setup-service-for-redhat.md" %}
-[setup-service-for-redhat.md](guides/setup-service-for-redhat.md)
+{% content-ref url="guides/for-administrator/setup-service-for-redhat.md" %}
+[setup-service-for-redhat.md](guides/for-administrator/setup-service-for-redhat.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
