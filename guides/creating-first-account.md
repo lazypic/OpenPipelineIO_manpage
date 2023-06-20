@@ -18,7 +18,7 @@
 
 ## 계정생성
 
-<figure><img src="../.gitbook/assets/스크린샷 2023-06-20 오후 6.24.11.png" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2023-06-20 오후 6.24.11.png" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
 
 최초 가입시에는 하단의 Sign-Up 메뉴를 클릭합니다. 계정을 생성하는 가입페이지로   이동할 수 있습니다.
 
