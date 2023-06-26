@@ -6,6 +6,7 @@
 
 * [Creating first Account](guides/creating-first-account.md)
 * [Creating first Status](guides/creating-first-status.md)
+* [Creating first Task](guides/creating-first-task.md)
 * [Creating Review](guides/creating-review.md)
 * [For Administrator](guides/for-administrator/README.md)
   * [Setup Service for RedHat](guides/for-administrator/setup-service-for-redhat.md)
